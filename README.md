@@ -3,10 +3,6 @@ Developed an AI-powered Push-Up Counter that detects and counts push-ups in real
 
 This project demonstrates practical applications of machine learning and computer vision in fitness tracking, human pose detection, and real-time motion analysis. It also helped strengthen skills in Python programming, image processing, and AI-based automation.
 
-# Push-Up Counter using Computer Vision
-
-A real-time Push-Up Counter built using Python, OpenCV, and MediaPipe that detects and counts push-ups through computer vision and pose estimation techniques.
-
 ## Features
 
 - Real-time push-up detection
